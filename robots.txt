@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saiphatahf.chrusu.ch/sitemap.xml
